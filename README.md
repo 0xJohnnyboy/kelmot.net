@@ -15,8 +15,10 @@ Kelmot est un jeu où vous devez deviner des mots, seul ou avec des amis.
 Ce dépôt est destiné à recueillir vos retours. Si vous rencontrez un bug ou si vous avez une idée pour améliorer le jeu, vous êtes au bon endroit !
 
 Comment contribuer :
-1. Allez dans l'onglet **[Issues](../../issues)**.
-2. Vérifiez si votre problème n'a pas déjà été signalé.
-3. Créez une nouvelle "Issue" en décrivant le bug ou votre suggestion le plus précisément possible.
+1. Allez dans l'onglet **[Issues](../../issues/new/choose)**.
+2. Choisissez le modèle qui correspond à votre besoin :
+   - **Signaler un bug** : Pour rapporter une erreur ou un problème technique.
+   - **Suggestion de fonctionnalité** : Pour proposer une nouvelle idée ou amélioration.
+3. Remplissez le formulaire le plus précisément possible.
 
 Bon jeu sur Kelmot !
