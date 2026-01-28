@@ -10,6 +10,11 @@ Kelmot est un jeu où vous devez deviner des mots, seul ou avec des amis.
 - **Règles simples** : Vous avez 6 tentatives pour deviner une série de 4 mots.
 - **Compétition** : Partagez un code de salle pour jouer ensemble et voir qui est le plus rapide (classement en temps réel).
 
+## Documentation & Communauté
+
+- **[Wiki](../../wiki)** : Retrouvez le guide complet, les règles du jeu et la FAQ.
+- **[Discussions](../../discussions)** : Pour échanger avec la communauté, partager vos stratégies ou simplement discuter du jeu.
+
 ## Signaler un problème / Suggestions
 
 Ce dépôt est destiné à recueillir vos retours. Si vous rencontrez un bug ou si vous avez une idée pour améliorer le jeu, vous êtes au bon endroit !
@@ -20,5 +25,10 @@ Comment contribuer :
    - **Signaler un bug** : Pour rapporter une erreur ou un problème technique.
    - **Suggestion de fonctionnalité** : Pour proposer une nouvelle idée ou amélioration.
 3. Remplissez le formulaire le plus précisément possible.
+
+## Licence
+
+Ce projet est **Closed Source**. Tous droits réservés.
+Toute distribution, modification ou utilisation commerciale est interdite sans autorisation.
 
 Bon jeu sur Kelmot !
