@@ -2,6 +2,8 @@
 
 Bienvenue sur le dépôt communautaire de **Kelmot**, un jeu de mots multijoueur inspiré de Motus/Tusmo.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71T5B8A)
+
 ## À propos du jeu
 
 Kelmot est un jeu où vous devez deviner des mots, seul ou avec des amis.
