@@ -20,6 +20,8 @@ Kelmot est un jeu où vous devez deviner des mots, seul ou avec des amis.
 ## Signaler un problème / Suggestions
 
 Ce dépôt est destiné à recueillir vos retours. Si vous rencontrez un bug ou si vous avez une idée pour améliorer le jeu, vous êtes au bon endroit !
+Pour les suggestions, si elles concernent plutôt le jeu en lui même (modes de jeu, règles, autre...), vous pouvez la soumettre la partie "Idées" des **[Discussions](../../discussions)**.
+Les issues sont plutôt liées aux problèmes et suggestions purement techniques.
 
 Comment contribuer :
 1. Allez dans l'onglet **[Issues](../../issues/new/choose)**.
