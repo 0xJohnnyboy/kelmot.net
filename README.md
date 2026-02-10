@@ -23,6 +23,8 @@ Les prochaines fonctionnalités à venir sont visibles dans la **[roadmap](../..
 
 Ce dépôt est destiné à recueillir vos retours. Si vous rencontrez un bug ou si vous avez une idée pour améliorer le jeu, vous êtes au bon endroit !
 
+Vérifiez que les services soient en ligne, ou si une maintenance est en cours via la [page de statut](https://status.kelmot.net/) !
+
 Pour les suggestions, si elles concernent plutôt le jeu en lui-même (modes de jeu, règles, autre...), vous pouvez les soumettre dans la partie "Idées" des **[Discussions](../../discussions)**.
 
 Les issues sont plutôt liées aux problèmes et suggestions purement techniques.
