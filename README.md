@@ -1,8 +1,8 @@
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/2jv4g.svg)](https://uptime.betterstack.com/?utm_source=status_badge) 
+
 # Kelmot
 
 Bienvenue sur le dépôt communautaire de **Kelmot**, un jeu de mots multijoueur inspiré de Motus/Tusmo.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71T5B8A)
 
 ## À propos du jeu
 
@@ -42,3 +42,5 @@ Ce projet est **Closed Source**. Tous droits réservés.
 Toute distribution, modification ou utilisation commerciale est interdite sans autorisation.
 
 Bon jeu sur Kelmot !
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K71T5B8A)   
